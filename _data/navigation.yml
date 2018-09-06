@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "News"
+    url: /news/
+  - title: "Research"
+    url: /research/
+  # - title: "Blog"
+  #   url: /blog/
+  - title: "Misc"
+    url: /misc/

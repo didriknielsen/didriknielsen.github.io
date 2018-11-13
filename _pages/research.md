@@ -5,6 +5,8 @@ author_profile: true
 
 ## Publications
 
+* [SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient](https://arxiv.org/abs/1811.04504). Aaron Mishkin, Frederik Kunstner, Didrik Nielsen, Mark Schmidt, Mohammad Emtiyaz Khan. In *Conference on Neural Information Processing Systems (NIPS)*, 2018.
+
 * [Fast yet Simple Natural-Gradient Descent for Variational Inference in Complex Models](https://arxiv.org/abs/1807.04489). Mohammad Emtiyaz Khan, Didrik Nielsen. In *International Symposium on Information Theory and Its Applications (ISITA)*, 2018.
 
 * [Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam](https://arxiv.org/abs/1806.04854). Mohammad Emtiyaz Khan, Didrik Nielsen, Voot Tangkaratt, Wu Lin, Yarin Gal, Akash Srivastava. In *International Conference on Machine Learning (ICML)*, 2018.

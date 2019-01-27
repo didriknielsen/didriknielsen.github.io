@@ -1,8 +1,6 @@
 ## About Me
 
-I will start my PhD in January 2019, working on deep generative models with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english) in Copenhagen, Denmark.
-
-The last few months, I have been working at the start-up [raffle.ai](http://raffle.ai/), developing corporate virtual assistants using information retrieval, natural language processing and deep learning.
+I enrolled as a PhD student in January 2019, working on deep generative models with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english) in Copenhagen, Denmark. I also work part-time at the start-up [raffle.ai](http://raffle.ai/), developing corporate virtual assistants using information retrieval, natural language processing and deep learning.
 
 Previously, I was working at [AIP](http://www.riken.jp/en/research/labs/aip/) at RIKEN in Tokyo, Japan with [Emtiyaz Khan](https://emtiyaz.github.io/) on methods for approximate Bayesian inference.
 

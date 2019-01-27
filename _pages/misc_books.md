@@ -29,6 +29,7 @@ Add books on
 
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) 1ed (2012) by David **Barber**.
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/) 2ed (2009) by Trevor **Hastie**, Robert **Tibshirani**, Jerome **Friedman**.
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) 1ed (2006) by Christopher **Bishop**.
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html) 1ed (2003) by
 David **MacKay**.
 
@@ -48,7 +49,6 @@ David **MacKay**.
 
 ### General Machine Learning:
 * [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1) 1ed (2012) by Kevin P. **Murphy**.
-* [Pattern Recognition and Machine Learning](https://www.springer.com/us/book/9780387310732) 1ed (2006) by Christopher **Bishop**.
 
 ### Monte Carlo Methods:
 * [Monte Carlo Statistical Methods](https://www.springer.com/la/book/9780387212395) 1ed (2004) by Christian **Robert** and George **Casella**.

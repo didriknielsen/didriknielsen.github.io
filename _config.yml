@@ -125,7 +125,6 @@ author:
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (t
-Note: The theme uses the jekyll-include-cache plugin which will need to be installed in your Gemfile and added to the plugins array of _config.yml. Otherwise you'll throw Unknown tag 'include_cached' errors at build.he last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :

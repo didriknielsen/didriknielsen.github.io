@@ -105,7 +105,7 @@ author:
   bio              : "Machine Learning Researcher"
   location         : "Copenhagen, Denmark"
   email            : "didrik.nielsen@gmail.com"
-  uri              :
+  uri              : "https://scholar.google.com/citations?user=-sbw1JIAAAAJ&hl=en"
   cv               : "/files/cv.pdf"
   home             : "/" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -124,7 +124,8 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            : # "steamId" (t
+Note: The theme uses the jekyll-include-cache plugin which will need to be installed in your Gemfile and added to the plugins array of _config.yml. Otherwise you'll throw Unknown tag 'include_cached' errors at build.he last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :

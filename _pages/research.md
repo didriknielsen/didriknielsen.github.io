@@ -25,4 +25,4 @@ Structured Variational Autoencoder](https://deepstruct.github.io/ICML17/1stDeepS
 
 ## Thesis
 
-* [Tree Boosting With XGBoost - Why Does XGBoost Win "Every" Machine Learning Competition?](https://brage.bibsys.no/xmlui/handle/11250/2433761?locale-attribute=en). Didrik Nielsen. MSc Thesis, 2016.
+* [Tree Boosting With XGBoost - Why Does XGBoost Win "Every" Machine Learning Competition?](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2433761/16128_FULLTEXT.pdf). Didrik Nielsen. MSc Thesis, 2016.

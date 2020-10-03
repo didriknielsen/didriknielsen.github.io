@@ -1,6 +1,6 @@
 ## About Me
 
-PhD student working on Unsupervised Deep Learning with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english). My research so far has mostly focused on *normalizing flows* and their connection to VAEs, PixelCNNs and other methods. 
+PhD student working on *deep unsupervised learning* with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english). My research so far has mostly focused on *normalizing flows* and their connection to VAEs, PixelCNNs and other methods. 
 
 Previously, I was working at RIKEN [AIP](http://www.riken.jp/en/research/labs/aip/) in Tokyo, Japan with [Emtiyaz Khan](https://emtiyaz.github.io/) on methods for approximate Bayesian inference.
 

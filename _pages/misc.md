@@ -1,9 +1,8 @@
 ---
+title: Miscellaneous
 permalink: "/misc/"
 author_profile: true
 ---
-
-# Miscellaneous
 
 Here is a collection of good machine learning resources:
 

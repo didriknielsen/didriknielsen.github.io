@@ -69,6 +69,8 @@ GEM
       jekyll (~> 3.0)
     kramdown (2.3.0)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -108,6 +110,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.12)
+  kramdown-parser-gfm (~> 1.1)
   minimal-mistakes-jekyll!
   rake (~> 12.3)
 

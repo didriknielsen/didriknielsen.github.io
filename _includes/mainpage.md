@@ -1,10 +1,10 @@
 ## About Me
 
-I am currently a PhD student working on probabilistic deep generative models with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english) in Copenhagen, Denmark. I also work part-time at the start-up [raffle.ai](http://raffle.ai/), developing corporate virtual assistants using information retrieval, natural language processing and deep learning.
+PhD student working on Unsupervised Deep Learning with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english). My research so far has mostly focused on *normalizing flows* and their connection to VAEs, PixelCNNs and other methods. 
 
-Previously, I was working at [AIP](http://www.riken.jp/en/research/labs/aip/) at RIKEN in Tokyo, Japan with [Emtiyaz Khan](https://emtiyaz.github.io/) on methods for approximate Bayesian inference.
+Previously, I was working at RIKEN [AIP](http://www.riken.jp/en/research/labs/aip/) in Tokyo, Japan with [Emtiyaz Khan](https://emtiyaz.github.io/) on methods for approximate Bayesian inference.
 
-For more details, see my full [CV](/files/cv.pdf).
+For more details, see my full [CV](/files/cv.pdf) or my [Google Scholar](https://scholar.google.com/citations?user=-sbw1JIAAAAJ&hl=en).
 
 ## Research Interests
 

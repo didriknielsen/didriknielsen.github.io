@@ -3,4 +3,4 @@ date: 2021-06-18 15:59:00-0400
 inline: true
 ---
 
-I will give a lecture on normalizing flows at the [Nordic Probabilistic AI School](https://probabilistic.ai/).
+I held a lecture on normalizing flows at the [Nordic Probabilistic AI School](https://probabilistic.ai/).

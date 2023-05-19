@@ -1,14 +1,14 @@
 ## About Me
 
-Researcher at [Norwegian Computing Center](https://nr.no/en/) solving research problems for industry using machine learning.
+Staff Machine Learning Engineer at [twig.energy](https://www.twig.energy/) developing machine learning models for trading in power markets -- enabling higher revenues for producers and unlocking zero carbon power for consumers.
 
-Previously, I was working with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) on *deep generative models* at [DTU Compute](http://www.compute.dtu.dk/english) in Copenhagen and before that I worked with [Emtiyaz Khan](https://emtiyaz.github.io/) on *approximate Bayesian inference* at [RIKEN AIP](http://www.riken.jp/en/research/labs/aip/) in Tokyo.
+In my PhD, I worked on *deep generative models*, including *normalizing flows* and *diffusion models* with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english).
 
 For more details, see my full [CV](/files/cv.pdf) or my [Google Scholar](https://scholar.google.com/citations?user=-sbw1JIAAAAJ&hl=en).
 
-## Research Interests
+## Interests
 
-I am interested in *probabilistic machine learning* methods and *deep learning*, including variational inference, deep generative models and neural architecture design.
+I am broadly interested in machine learning and deep learning. I have previously worked on deep generative models, probabilistic inference approaches and boosting methods. 
 
 ## News
 

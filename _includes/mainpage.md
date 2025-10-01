@@ -1,6 +1,6 @@
 ## About Me
 
-Staff Machine Learning Engineer at [twig.energy](https://www.twig.energy/) developing machine learning models for trading in power markets -- enabling higher revenues for producers and unlocking zero carbon power for consumers.
+Staff Machine Learning Engineer at [twig.energy](https://www.twig.energy/) developing machine learning models for trading in power markets.
 
 In my PhD, I worked on *deep generative models*, including *normalizing flows* and *diffusion models* with Prof. [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/) at [DTU Compute](http://www.compute.dtu.dk/english).
 
